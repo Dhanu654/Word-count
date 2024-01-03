@@ -1,4 +1,4 @@
-# Word-count
+## Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
@@ -17,6 +17,8 @@ You can refine the count by cleaning the string prior to splitting or validating
 ### Step 6: 
 End the program.
 ## PROGRAM:
+Developed by: Dhanusya.K
+Register number: 23006651
 
 ![Screenshot 2024-01-03 202712](https://github.com/Dhanu654/Word-count/assets/148514965/8f35c8bd-2acf-455c-b41c-6a169975edb0)
 
